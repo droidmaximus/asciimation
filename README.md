@@ -16,6 +16,7 @@ Turn YouTube videos into ASCII art right in your terminal!
     git clone https://github.com/droidmaximus/asciimation.git
     cd asciimation
     ```
+   > You can use the tool directly from the cloned repository by running the `asciimation.exe` file.
 
 2. **Install the CLI Tool**:
     Make sure you have Python 3.6+ installed. Then, install the package using pip:
